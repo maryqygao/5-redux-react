@@ -1,0 +1,4 @@
+.element {
+  background-color: $btn-secondary-bg !important;
+  color: blue;
+}

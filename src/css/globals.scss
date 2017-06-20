@@ -1,0 +1,15 @@
+/*!
+ * Start Bootstrap - Small Business (http://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+@import 'bootstrap-custom';
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - #{$navbar-shift});
+  .content {
+    flex-grow: 1;
+  }
+}

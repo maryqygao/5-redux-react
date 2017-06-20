@@ -1,0 +1,4 @@
+// Make variables and mixins available when using CSS modules.
+@import 'node_modules/bootstrap/scss/variables';
+@import 'node_modules/bootstrap/scss/mixins';
+@import 'src/css/bootstrap/bs-theme/variables';
